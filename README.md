@@ -89,7 +89,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/vanshika-bh">
+  <a href="https://www.linkedin.com/in/vanshika-bh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto: vanshikabh2024@gmail.com">
