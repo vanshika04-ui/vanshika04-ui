@@ -2,7 +2,7 @@
 <h3 align="center">🚀 ML Engineer | Computer Vision | AI Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Real-World+AI+Systems;Computer+Vision+%7C+Deep+Learning;From+Research+→+Production" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Turning+Data+into+Intelligent+Systems+;Machine+Learning+Engineer+in+Progress+;Optimizing+Models+for+Real-World+Use)](https://git.io/typing-svg)
 </p>
 
 ---
