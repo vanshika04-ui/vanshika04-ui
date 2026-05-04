@@ -99,8 +99,6 @@
 
 ---
 
-## ✨
-
 <p align="center">
   <b>Build. Test. Break. Improve. Repeat.</b>
 </p>
